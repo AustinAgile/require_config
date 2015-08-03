@@ -1,0 +1,14 @@
+{
+	"name": "require_config",
+	"version": "0.0.0",
+	"description": "A module for requiring Mattersight configuration files",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/AustinAgile/require_config.git"
+	},
+	"main": "index.js",
+	"scripts": {},
+	"author": "Mattersight",
+	"license": "Mattersight",
+	"dependencies": {}
+}
